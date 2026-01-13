@@ -34,17 +34,6 @@ O sistema classifica o nível de um herói com base na sua quantidade de experi�
 ## ▶️ Exemplo de Saída
 O Herói de nome Arthas está no nível de Prata
 
-
----
-
-## ▶️ Como Executar o Projeto
-1. Clone este repositório
-2. Abra o arquivo `.js` em um editor de código
-3. Execute com Node.js:
-```bash
-node index.js
-
-```
 ---
 
 ## 👨‍💻 Autor
